@@ -27,6 +27,8 @@ public class PBOIF210119052Latihan28GantiKata {
         System.out.println("====Hasil Formatting====");
         System.out.println("Kalimat awal : "+teks);
         System.out.println("Kalimat baru : "+teks.replace(cari, ganti));
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+        System.out.println("Developed By Rizki Dwi Nugraha");
     }
     
 }
